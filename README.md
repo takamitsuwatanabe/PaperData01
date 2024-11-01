@@ -1,2 +1,1 @@
-# IntrinsicNeuralTimescale
-Codes for intrinsic neural timescale analysis
+Repository data for papers
